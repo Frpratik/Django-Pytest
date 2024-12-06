@@ -1,1 +1,4 @@
 venv/
+django_pytest/django_pytest/__pycache__/
+django_pytest/myapp/__pycache__
+django_pytest/db.sqlite3
